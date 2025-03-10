@@ -11,12 +11,12 @@ This repository demonstrates the **complete implementation** of a Software Archi
    - Summarized their advantages and disadvantages in a table format.
    - (/docs/Software Architectural Styles.pdf)
 ---
-   - Select an existing software system [Facebook]
-   - Identified and describe the architecture style it follows.
+   - Selected an existing software system [Facebook]
+   - Identified and described the architecture style it follows.
    - Created a basic block diagram illustrating its components and interactions.
    - (/docs/Software System - Facebook.pdf)
 ---
-   - Choose a software application we use daily [Spotify]
+   - Chose a software application used daily [Spotify]
    - Identified its key components and their relationships.
    - Created a UML component diagram showcasing its architecture.
    - (/docs/Software Application - Spotify.pdf)
@@ -25,14 +25,14 @@ This repository demonstrates the **complete implementation** of a Software Archi
 ### 2. **Library System Design**  
    - Designed a simple library management system.
    - Identified the functional and non-functional requirements of the system.
-   - Break down the system into smaller subsystems.
-   - Defined parameters such as max books borrowed per user, database scalability needs, and performance considerations.
-   - Compared different database models (Relational vs NoSQL) and discuss trade-offs.
+   - Broke down the system into smaller subsystems.
+   - Defined parameters such as the maximum number of books borrowed per user, database scalability needs, and performance considerations.
+   - Compared different database models (Relational vs NoSQL) and discussed trade-offs.
    - Justified the chosen database model based on scalability and maintainability.
    - (/docs/Library Management System - Design.pdf)
 ---
 ### 3. **High-level Prototype UI**  
-   -  Sketch a simple high-level prototype UI for book search and borrowing.
+   -  Sketched a simple high-level prototype UI for book search and borrowing.
    -  (/sketch/Library-Management-System.pdf) - PDF of the sketch.
    -  (/sketch/Library-Management-System.vis) - Visily file.
 ---
