@@ -43,7 +43,7 @@ This repository demonstrates the **complete implementation** of a Software Archi
    - **Component Diagram**: System components and their interactions.
 ---
 ### 5. **Entity Relationship Diagram**
-- Though ERD is not a UML diagram I included the Entity
+- Though ERD is not a UML diagram we included the Entity
 Relationship Diagram (ERD) to visually represent the
 structure and relationships of the Library Management
 System. It clearly defines how key entities like Users,
@@ -59,3 +59,9 @@ and scale.
 - `diagrams/`: UML Diagrams and ERD
 - `docs/`: Documents (report) and Analysis
 - `sketch/`: Prototype UI
+
+## Group 3
+- Lapura, Wendel T.
+- Pisos, Arjie
+- Zapico, Mark Roel G.
+- Damalerio, Danilo A.
